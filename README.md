@@ -1,12 +1,12 @@
 # finall-project-iti-mobile-app
 ## ecommerce mobile app 
 *********************************************************
-##we used:
+## we used:
 ***************************
 -react native
--mongodb
--node.js
--express
+  -mongodb
+  -node.js
+  -express
 
 *****************************************************
 ##Screenshots:
